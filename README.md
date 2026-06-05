@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Manmith1321/LEETCODE/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Manmith1321/LEETCODE/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Manmith1321/LEETCODE/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -18,4 +20,16 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Manmith1321/LEETCODE/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
