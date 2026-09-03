@@ -7,6 +7,7 @@
 | [0035-search-insert-position](https://github.com/Manmith1321/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Manmith1321/LEETCODE/tree/master/0735-asteroid-collision) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Manmith1321/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manmith1321/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Math
+|  |
+| ------- |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Manmith1321/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
