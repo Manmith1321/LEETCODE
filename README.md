@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Manmith1321/LEETCODE/tree/master/0735-asteroid-collision) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manmith1321/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Manmith1321/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manmith1321/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Manmith1321/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
