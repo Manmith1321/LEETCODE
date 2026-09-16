@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manmith1321/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -49,9 +50,15 @@
 ## Math
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manmith1321/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manmith1321/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manmith1321/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Manmith1321/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manmith1321/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
