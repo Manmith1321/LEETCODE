@@ -13,6 +13,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Manmith1321/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -31,6 +32,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manmith1321/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Monotonic Stack
@@ -45,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Manmith1321/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manmith1321/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -69,5 +72,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
