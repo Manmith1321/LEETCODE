@@ -16,6 +16,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Manmith1321/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Manmith1321/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Manmith1321/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Manmith1321/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manmith1321/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -73,5 +75,10 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Manmith1321/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manmith1321/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Manmith1321/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
