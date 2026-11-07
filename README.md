@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Manmith1321/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Manmith1321/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/Manmith1321/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manmith1321/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manmith1321/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Manmith1321/LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manmith1321/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/Manmith1321/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
