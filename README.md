@@ -7,6 +7,7 @@
 | [0035-search-insert-position](https://github.com/Manmith1321/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Manmith1321/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1267-count-servers-that-communicate](https://github.com/Manmith1321/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Manmith1321/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/Manmith1321/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manmith1321/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -91,4 +92,24 @@
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/Manmith1321/LEETCODE/tree/master/1882-process-tasks-using-servers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Manmith1321/LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Manmith1321/LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Manmith1321/LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Manmith1321/LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Manmith1321/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
