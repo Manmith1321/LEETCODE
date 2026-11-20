@@ -12,6 +12,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Manmith1321/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/Manmith1321/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manmith1321/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Manmith1321/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manmith1321/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Manmith1321/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 ## Stack
@@ -41,6 +42,7 @@
 | [0042-trapping-rain-water](https://github.com/Manmith1321/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manmith1321/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manmith1321/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Manmith1321/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Manmith1321/LEETCODE/tree/master/1267-count-servers-that-communicate) |
+## Sorting
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Manmith1321/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->
